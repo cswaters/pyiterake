@@ -15,7 +15,7 @@ setup(
     description="Create weights with iterative raking - port of Iterake R package",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pyiterake",
+    url="https://github.com/cswaters/pyiterake",
     project_urls={
         "Bug Tracker": "https://github.com/cswaters/pyiterake/issues",
         "Source Code": "https://github.com/cswaters/pyiterake",

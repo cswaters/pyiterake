@@ -6,7 +6,7 @@
 A Python package for creating weights using iterative raking (rim weighting).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/pyiterake/main/docs/images/logo.png" alt="PyIterake Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/cswaters/pyiterake/main/docs/images/logo.png" alt="PyIterake Logo" width="200"/>
 </p>
 
 ## Overview
@@ -36,13 +36,13 @@ pip install pyiterake
 ### From Source
 
 ```bash
-pip install git+https://github.com/yourusername/pyiterake.git
+pip install git+https://github.com/cswaters/pyiterake.git
 ```
 
 Or clone the repository and install in development mode:
 
 ```bash
-git clone https://github.com/yourusername/pyiterake.git
+git clone https://github.com/cswaters/pyiterake.git
 cd pyiterake
 pip install -e .
 ```
